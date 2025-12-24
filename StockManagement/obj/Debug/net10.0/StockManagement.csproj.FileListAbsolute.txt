@@ -1,0 +1,14 @@
+C:\Users\Jagriti\Desktop\.net practice\StockManagement\obj\Debug\net10.0\StockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jagriti\Desktop\.net practice\StockManagement\obj\Debug\net10.0\StockManagement.AssemblyInfoInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\StockManagement\obj\Debug\net10.0\StockManagement.AssemblyInfo.cs
+C:\Users\Jagriti\Desktop\.net practice\StockManagement\obj\Debug\net10.0\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\StockManagement\bin\Debug\net10.0\StockManagement.exe
+C:\Users\Jagriti\Desktop\.net practice\StockManagement\bin\Debug\net10.0\StockManagement.deps.json
+C:\Users\Jagriti\Desktop\.net practice\StockManagement\bin\Debug\net10.0\StockManagement.runtimeconfig.json
+C:\Users\Jagriti\Desktop\.net practice\StockManagement\bin\Debug\net10.0\StockManagement.dll
+C:\Users\Jagriti\Desktop\.net practice\StockManagement\bin\Debug\net10.0\StockManagement.pdb
+C:\Users\Jagriti\Desktop\.net practice\StockManagement\obj\Debug\net10.0\StockManagement.dll
+C:\Users\Jagriti\Desktop\.net practice\StockManagement\obj\Debug\net10.0\refint\StockManagement.dll
+C:\Users\Jagriti\Desktop\.net practice\StockManagement\obj\Debug\net10.0\StockManagement.pdb
+C:\Users\Jagriti\Desktop\.net practice\StockManagement\obj\Debug\net10.0\StockManagement.genruntimeconfig.cache
+C:\Users\Jagriti\Desktop\.net practice\StockManagement\obj\Debug\net10.0\ref\StockManagement.dll
