@@ -1,0 +1,14 @@
+C:\Users\Jagriti\Desktop\.net practice\PayRollPro\obj\Debug\net10.0\PayRollPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jagriti\Desktop\.net practice\PayRollPro\obj\Debug\net10.0\PayRollPro.AssemblyInfoInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\PayRollPro\obj\Debug\net10.0\PayRollPro.AssemblyInfo.cs
+C:\Users\Jagriti\Desktop\.net practice\PayRollPro\obj\Debug\net10.0\PayRollPro.csproj.CoreCompileInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\PayRollPro\bin\Debug\net10.0\PayRollPro.exe
+C:\Users\Jagriti\Desktop\.net practice\PayRollPro\bin\Debug\net10.0\PayRollPro.deps.json
+C:\Users\Jagriti\Desktop\.net practice\PayRollPro\bin\Debug\net10.0\PayRollPro.runtimeconfig.json
+C:\Users\Jagriti\Desktop\.net practice\PayRollPro\bin\Debug\net10.0\PayRollPro.dll
+C:\Users\Jagriti\Desktop\.net practice\PayRollPro\bin\Debug\net10.0\PayRollPro.pdb
+C:\Users\Jagriti\Desktop\.net practice\PayRollPro\obj\Debug\net10.0\PayRollPro.dll
+C:\Users\Jagriti\Desktop\.net practice\PayRollPro\obj\Debug\net10.0\refint\PayRollPro.dll
+C:\Users\Jagriti\Desktop\.net practice\PayRollPro\obj\Debug\net10.0\PayRollPro.pdb
+C:\Users\Jagriti\Desktop\.net practice\PayRollPro\obj\Debug\net10.0\PayRollPro.genruntimeconfig.cache
+C:\Users\Jagriti\Desktop\.net practice\PayRollPro\obj\Debug\net10.0\ref\PayRollPro.dll
