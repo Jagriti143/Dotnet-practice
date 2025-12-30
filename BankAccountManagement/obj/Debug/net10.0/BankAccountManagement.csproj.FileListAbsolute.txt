@@ -1,0 +1,14 @@
+C:\Users\Jagriti\Desktop\.net practice\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jagriti\Desktop\.net practice\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.AssemblyInfoInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.AssemblyInfo.cs
+C:\Users\Jagriti\Desktop\.net practice\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.csproj.CoreCompileInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\BankAccountManagement\bin\Debug\net10.0\BankAccountManagement.exe
+C:\Users\Jagriti\Desktop\.net practice\BankAccountManagement\bin\Debug\net10.0\BankAccountManagement.deps.json
+C:\Users\Jagriti\Desktop\.net practice\BankAccountManagement\bin\Debug\net10.0\BankAccountManagement.runtimeconfig.json
+C:\Users\Jagriti\Desktop\.net practice\BankAccountManagement\bin\Debug\net10.0\BankAccountManagement.dll
+C:\Users\Jagriti\Desktop\.net practice\BankAccountManagement\bin\Debug\net10.0\BankAccountManagement.pdb
+C:\Users\Jagriti\Desktop\.net practice\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.dll
+C:\Users\Jagriti\Desktop\.net practice\BankAccountManagement\obj\Debug\net10.0\refint\BankAccountManagement.dll
+C:\Users\Jagriti\Desktop\.net practice\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.pdb
+C:\Users\Jagriti\Desktop\.net practice\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.genruntimeconfig.cache
+C:\Users\Jagriti\Desktop\.net practice\BankAccountManagement\obj\Debug\net10.0\ref\BankAccountManagement.dll
