@@ -1,70 +1,63 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2867
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab560
-\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+Q-2
+select OrderID, TotalSales
+from (
+    select 
+        ODM.OrderID,
+        sum(ODM.Quantity * PM.UnitPrice) as TotalSales
+   from OrderDetailMaster ODM
+    join ProductMaster PM
+        on ODM.ProductID = PM.ProductID
+    group by ODM.OrderID
+    order by TotalSales desc
+    offset 2 rows fetch next 1 row only
+) t;
 
-\f0\fs26 \cf0 Q-2\
-select OrderID, TotalSales\
-from (\
-    select \
-        ODM.OrderID,\
-        sum(ODM.Quantity * PM.UnitPrice) as TotalSales\
-   from OrderDetailMaster ODM\
-    join ProductMaster PM\
-        on ODM.ProductID = PM.ProductID\
-    group by ODM.OrderID\
-    order by TotalSales desc\
-    offset 2 rows fetch next 1 row only\
-) t;\
-\
-\
-\
-\
-Q-3\
-select SM.SalesPersonName, sum(ODM.Quantity * PM.UnitPrice) as TotalSales\
-from SalesMaster SM\
-join OrderMaster OM on SM.SalesPersonID = OM.SalesPersonID\
-join OrderDetailMaster ODM on OM.OrderID = ODM.OrderID\
-join ProductMaster PM on ODM.ProductID = PM.ProductID\
-group by SM.SalesPersonName\
-having sum(ODM.Quantity * PM.UnitPrice) > 60000;\
-\
-\
-\
-Q-4\
-select C.CustomerName,\
-       sum(ODM.Quantity * PM.UnitPrice) as TotalSpent\
-from CustomerMaster C\
-join OrderMaster OM on C.CustomerID = OM.CustomerID\
-join OrderDetailMaster ODM on OM.OrderID = ODM.OrderID\
-join ProductMaster PM on ODM.ProductID = PM.ProductID\
-group by  C.CustomerName\
-having sum(ODM.Quantity * PM.UnitPrice) >\
-       (\
-           select avg(CustomerTotal)\
-           from (\
-               select sum(ODM2.Quantity * PM2.UnitPrice) as CustomerTotal\
-               from CustomerMaster C2\
-               join OrderMaster OM2 on C2.CustomerID = OM2.CustomerID\
-               join OrderDetailMaster ODM2 on OM2.OrderID = ODM2.OrderID\
-               join ProductMaster PM2 on ODM2.ProductID = PM2.ProductID\
-               group by C2.CustomerID\
-           ) as AvgTable\
-       );\
-\
-\
-\
-\
-\
-\
-Q-5\
-select upper(C.CustomerName) as CustomerName,\
-       datename(month, OM.OrderDate) as OrderMonth,\
-       OM.OrderDate\
-from CustomerMaster C\
-join OrderMaster OM on C.CustomerID = OM.CustomerID\
-where OM.OrderDate between '2024-01-01' and '2024-01-31';\
-}
+
+
+
+Q-3
+select SM.SalesPersonName, sum(ODM.Quantity * PM.UnitPrice) as TotalSales
+from SalesMaster SM
+join OrderMaster OM on SM.SalesPersonID = OM.SalesPersonID
+join OrderDetailMaster ODM on OM.OrderID = ODM.OrderID
+join ProductMaster PM on ODM.ProductID = PM.ProductID
+group by SM.SalesPersonName
+having sum(ODM.Quantity * PM.UnitPrice) > 60000;
+
+
+
+Q-4
+select C.CustomerName,
+       sum(ODM.Quantity * PM.UnitPrice) as TotalSpent
+from CustomerMaster C
+join OrderMaster OM on C.CustomerID = OM.CustomerID
+join OrderDetailMaster ODM on OM.OrderID = ODM.OrderID
+join ProductMaster PM on ODM.ProductID = PM.ProductID
+group by  C.CustomerName
+having sum(ODM.Quantity * PM.UnitPrice) >
+       (
+           select avg(CustomerTotal)
+           from (
+               select sum(ODM2.Quantity * PM2.UnitPrice) as CustomerTotal
+               from CustomerMaster C2
+               join OrderMaster OM2 on C2.CustomerID = OM2.CustomerID
+               join OrderDetailMaster ODM2 on OM2.OrderID = ODM2.OrderID
+               join ProductMaster PM2 on ODM2.ProductID = PM2.ProductID
+               group by C2.CustomerID
+           ) as AvgTable
+       );
+
+
+
+
+
+
+Q-5
+select upper(C.CustomerName) as CustomerName,
+       datename(month, OM.OrderDate) as OrderMonth,
+       OM.OrderDate
+from CustomerMaster C
+join OrderMaster OM on C.CustomerID = OM.CustomerID
+where OM.OrderDate between '2024-01-01' and '2024-01-31';
+
+
