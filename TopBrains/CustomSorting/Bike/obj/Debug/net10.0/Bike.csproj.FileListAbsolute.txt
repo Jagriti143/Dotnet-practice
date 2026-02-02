@@ -1,0 +1,14 @@
+/Users/jagriti/Desktop/C#/Bike/obj/Debug/net10.0/Bike.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jagriti/Desktop/C#/Bike/obj/Debug/net10.0/Bike.AssemblyInfoInputs.cache
+/Users/jagriti/Desktop/C#/Bike/obj/Debug/net10.0/Bike.AssemblyInfo.cs
+/Users/jagriti/Desktop/C#/Bike/obj/Debug/net10.0/Bike.csproj.CoreCompileInputs.cache
+/Users/jagriti/Desktop/C#/Bike/bin/Debug/net10.0/Bike
+/Users/jagriti/Desktop/C#/Bike/bin/Debug/net10.0/Bike.deps.json
+/Users/jagriti/Desktop/C#/Bike/bin/Debug/net10.0/Bike.runtimeconfig.json
+/Users/jagriti/Desktop/C#/Bike/bin/Debug/net10.0/Bike.dll
+/Users/jagriti/Desktop/C#/Bike/bin/Debug/net10.0/Bike.pdb
+/Users/jagriti/Desktop/C#/Bike/obj/Debug/net10.0/Bike.dll
+/Users/jagriti/Desktop/C#/Bike/obj/Debug/net10.0/refint/Bike.dll
+/Users/jagriti/Desktop/C#/Bike/obj/Debug/net10.0/Bike.pdb
+/Users/jagriti/Desktop/C#/Bike/obj/Debug/net10.0/Bike.genruntimeconfig.cache
+/Users/jagriti/Desktop/C#/Bike/obj/Debug/net10.0/ref/Bike.dll
