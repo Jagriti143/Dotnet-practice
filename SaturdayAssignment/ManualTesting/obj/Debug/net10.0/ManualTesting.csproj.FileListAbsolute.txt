@@ -1,0 +1,14 @@
+C:\Users\Jagriti\Desktop\.net practice\ManualTesting\bin\Debug\net10.0\ManualTesting.exe
+C:\Users\Jagriti\Desktop\.net practice\ManualTesting\bin\Debug\net10.0\ManualTesting.deps.json
+C:\Users\Jagriti\Desktop\.net practice\ManualTesting\bin\Debug\net10.0\ManualTesting.runtimeconfig.json
+C:\Users\Jagriti\Desktop\.net practice\ManualTesting\bin\Debug\net10.0\ManualTesting.dll
+C:\Users\Jagriti\Desktop\.net practice\ManualTesting\bin\Debug\net10.0\ManualTesting.pdb
+C:\Users\Jagriti\Desktop\.net practice\ManualTesting\obj\Debug\net10.0\ManualTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jagriti\Desktop\.net practice\ManualTesting\obj\Debug\net10.0\ManualTesting.AssemblyInfoInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\ManualTesting\obj\Debug\net10.0\ManualTesting.AssemblyInfo.cs
+C:\Users\Jagriti\Desktop\.net practice\ManualTesting\obj\Debug\net10.0\ManualTesting.csproj.CoreCompileInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\ManualTesting\obj\Debug\net10.0\ManualTesting.dll
+C:\Users\Jagriti\Desktop\.net practice\ManualTesting\obj\Debug\net10.0\refint\ManualTesting.dll
+C:\Users\Jagriti\Desktop\.net practice\ManualTesting\obj\Debug\net10.0\ManualTesting.pdb
+C:\Users\Jagriti\Desktop\.net practice\ManualTesting\obj\Debug\net10.0\ManualTesting.genruntimeconfig.cache
+C:\Users\Jagriti\Desktop\.net practice\ManualTesting\obj\Debug\net10.0\ref\ManualTesting.dll
