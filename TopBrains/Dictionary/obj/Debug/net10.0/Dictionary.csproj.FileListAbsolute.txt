@@ -1,0 +1,14 @@
+/Users/jagriti/Desktop/TopBrains/Dictionary/obj/Debug/net10.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jagriti/Desktop/TopBrains/Dictionary/obj/Debug/net10.0/Dictionary.AssemblyInfoInputs.cache
+/Users/jagriti/Desktop/TopBrains/Dictionary/obj/Debug/net10.0/Dictionary.AssemblyInfo.cs
+/Users/jagriti/Desktop/TopBrains/Dictionary/obj/Debug/net10.0/Dictionary.csproj.CoreCompileInputs.cache
+/Users/jagriti/Desktop/TopBrains/Dictionary/bin/Debug/net10.0/Dictionary
+/Users/jagriti/Desktop/TopBrains/Dictionary/bin/Debug/net10.0/Dictionary.deps.json
+/Users/jagriti/Desktop/TopBrains/Dictionary/bin/Debug/net10.0/Dictionary.runtimeconfig.json
+/Users/jagriti/Desktop/TopBrains/Dictionary/bin/Debug/net10.0/Dictionary.dll
+/Users/jagriti/Desktop/TopBrains/Dictionary/bin/Debug/net10.0/Dictionary.pdb
+/Users/jagriti/Desktop/TopBrains/Dictionary/obj/Debug/net10.0/Dictionary.dll
+/Users/jagriti/Desktop/TopBrains/Dictionary/obj/Debug/net10.0/refint/Dictionary.dll
+/Users/jagriti/Desktop/TopBrains/Dictionary/obj/Debug/net10.0/Dictionary.pdb
+/Users/jagriti/Desktop/TopBrains/Dictionary/obj/Debug/net10.0/Dictionary.genruntimeconfig.cache
+/Users/jagriti/Desktop/TopBrains/Dictionary/obj/Debug/net10.0/ref/Dictionary.dll
