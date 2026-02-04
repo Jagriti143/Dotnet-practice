@@ -1,0 +1,14 @@
+/Users/jagriti/Desktop/TopBrains/LargestThree/bin/Debug/net10.0/LargestThree
+/Users/jagriti/Desktop/TopBrains/LargestThree/bin/Debug/net10.0/LargestThree.deps.json
+/Users/jagriti/Desktop/TopBrains/LargestThree/bin/Debug/net10.0/LargestThree.runtimeconfig.json
+/Users/jagriti/Desktop/TopBrains/LargestThree/bin/Debug/net10.0/LargestThree.dll
+/Users/jagriti/Desktop/TopBrains/LargestThree/bin/Debug/net10.0/LargestThree.pdb
+/Users/jagriti/Desktop/TopBrains/LargestThree/obj/Debug/net10.0/LargestThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jagriti/Desktop/TopBrains/LargestThree/obj/Debug/net10.0/LargestThree.AssemblyInfoInputs.cache
+/Users/jagriti/Desktop/TopBrains/LargestThree/obj/Debug/net10.0/LargestThree.AssemblyInfo.cs
+/Users/jagriti/Desktop/TopBrains/LargestThree/obj/Debug/net10.0/LargestThree.csproj.CoreCompileInputs.cache
+/Users/jagriti/Desktop/TopBrains/LargestThree/obj/Debug/net10.0/LargestThree.dll
+/Users/jagriti/Desktop/TopBrains/LargestThree/obj/Debug/net10.0/refint/LargestThree.dll
+/Users/jagriti/Desktop/TopBrains/LargestThree/obj/Debug/net10.0/LargestThree.pdb
+/Users/jagriti/Desktop/TopBrains/LargestThree/obj/Debug/net10.0/LargestThree.genruntimeconfig.cache
+/Users/jagriti/Desktop/TopBrains/LargestThree/obj/Debug/net10.0/ref/LargestThree.dll
