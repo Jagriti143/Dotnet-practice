@@ -1,0 +1,14 @@
+/Users/jagriti/Desktop/TopBrains/MidPointRounding/bin/Debug/net10.0/MidPointRounding
+/Users/jagriti/Desktop/TopBrains/MidPointRounding/bin/Debug/net10.0/MidPointRounding.deps.json
+/Users/jagriti/Desktop/TopBrains/MidPointRounding/bin/Debug/net10.0/MidPointRounding.runtimeconfig.json
+/Users/jagriti/Desktop/TopBrains/MidPointRounding/bin/Debug/net10.0/MidPointRounding.dll
+/Users/jagriti/Desktop/TopBrains/MidPointRounding/bin/Debug/net10.0/MidPointRounding.pdb
+/Users/jagriti/Desktop/TopBrains/MidPointRounding/obj/Debug/net10.0/MidPointRounding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jagriti/Desktop/TopBrains/MidPointRounding/obj/Debug/net10.0/MidPointRounding.AssemblyInfoInputs.cache
+/Users/jagriti/Desktop/TopBrains/MidPointRounding/obj/Debug/net10.0/MidPointRounding.AssemblyInfo.cs
+/Users/jagriti/Desktop/TopBrains/MidPointRounding/obj/Debug/net10.0/MidPointRounding.csproj.CoreCompileInputs.cache
+/Users/jagriti/Desktop/TopBrains/MidPointRounding/obj/Debug/net10.0/MidPointRounding.dll
+/Users/jagriti/Desktop/TopBrains/MidPointRounding/obj/Debug/net10.0/refint/MidPointRounding.dll
+/Users/jagriti/Desktop/TopBrains/MidPointRounding/obj/Debug/net10.0/MidPointRounding.pdb
+/Users/jagriti/Desktop/TopBrains/MidPointRounding/obj/Debug/net10.0/MidPointRounding.genruntimeconfig.cache
+/Users/jagriti/Desktop/TopBrains/MidPointRounding/obj/Debug/net10.0/ref/MidPointRounding.dll
