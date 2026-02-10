@@ -1,0 +1,14 @@
+/Users/jagriti/Desktop/TopBrains/UniCourseRegisterationSystem/obj/Debug/net10.0/UniCourseRegisterationSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jagriti/Desktop/TopBrains/UniCourseRegisterationSystem/obj/Debug/net10.0/UniCourseRegisterationSystem.AssemblyInfoInputs.cache
+/Users/jagriti/Desktop/TopBrains/UniCourseRegisterationSystem/obj/Debug/net10.0/UniCourseRegisterationSystem.AssemblyInfo.cs
+/Users/jagriti/Desktop/TopBrains/UniCourseRegisterationSystem/obj/Debug/net10.0/UniCourseRegisterationSystem.csproj.CoreCompileInputs.cache
+/Users/jagriti/Desktop/TopBrains/UniCourseRegisterationSystem/bin/Debug/net10.0/UniCourseRegisterationSystem
+/Users/jagriti/Desktop/TopBrains/UniCourseRegisterationSystem/bin/Debug/net10.0/UniCourseRegisterationSystem.deps.json
+/Users/jagriti/Desktop/TopBrains/UniCourseRegisterationSystem/bin/Debug/net10.0/UniCourseRegisterationSystem.runtimeconfig.json
+/Users/jagriti/Desktop/TopBrains/UniCourseRegisterationSystem/bin/Debug/net10.0/UniCourseRegisterationSystem.dll
+/Users/jagriti/Desktop/TopBrains/UniCourseRegisterationSystem/bin/Debug/net10.0/UniCourseRegisterationSystem.pdb
+/Users/jagriti/Desktop/TopBrains/UniCourseRegisterationSystem/obj/Debug/net10.0/UniCourseRegisterationSystem.dll
+/Users/jagriti/Desktop/TopBrains/UniCourseRegisterationSystem/obj/Debug/net10.0/refint/UniCourseRegisterationSystem.dll
+/Users/jagriti/Desktop/TopBrains/UniCourseRegisterationSystem/obj/Debug/net10.0/UniCourseRegisterationSystem.pdb
+/Users/jagriti/Desktop/TopBrains/UniCourseRegisterationSystem/obj/Debug/net10.0/UniCourseRegisterationSystem.genruntimeconfig.cache
+/Users/jagriti/Desktop/TopBrains/UniCourseRegisterationSystem/obj/Debug/net10.0/ref/UniCourseRegisterationSystem.dll
