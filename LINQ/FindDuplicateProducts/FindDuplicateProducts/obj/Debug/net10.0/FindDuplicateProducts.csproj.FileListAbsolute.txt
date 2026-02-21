@@ -1,0 +1,14 @@
+C:\Users\Jagriti\Desktop\LINQ\FindDuplicateProducts\FindDuplicateProducts\obj\Debug\net10.0\FindDuplicateProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jagriti\Desktop\LINQ\FindDuplicateProducts\FindDuplicateProducts\obj\Debug\net10.0\FindDuplicateProducts.AssemblyInfoInputs.cache
+C:\Users\Jagriti\Desktop\LINQ\FindDuplicateProducts\FindDuplicateProducts\obj\Debug\net10.0\FindDuplicateProducts.AssemblyInfo.cs
+C:\Users\Jagriti\Desktop\LINQ\FindDuplicateProducts\FindDuplicateProducts\obj\Debug\net10.0\FindDuplicateProducts.csproj.CoreCompileInputs.cache
+C:\Users\Jagriti\Desktop\LINQ\FindDuplicateProducts\FindDuplicateProducts\bin\Debug\net10.0\FindDuplicateProducts.exe
+C:\Users\Jagriti\Desktop\LINQ\FindDuplicateProducts\FindDuplicateProducts\bin\Debug\net10.0\FindDuplicateProducts.deps.json
+C:\Users\Jagriti\Desktop\LINQ\FindDuplicateProducts\FindDuplicateProducts\bin\Debug\net10.0\FindDuplicateProducts.runtimeconfig.json
+C:\Users\Jagriti\Desktop\LINQ\FindDuplicateProducts\FindDuplicateProducts\bin\Debug\net10.0\FindDuplicateProducts.dll
+C:\Users\Jagriti\Desktop\LINQ\FindDuplicateProducts\FindDuplicateProducts\bin\Debug\net10.0\FindDuplicateProducts.pdb
+C:\Users\Jagriti\Desktop\LINQ\FindDuplicateProducts\FindDuplicateProducts\obj\Debug\net10.0\FindDuplicateProducts.dll
+C:\Users\Jagriti\Desktop\LINQ\FindDuplicateProducts\FindDuplicateProducts\obj\Debug\net10.0\refint\FindDuplicateProducts.dll
+C:\Users\Jagriti\Desktop\LINQ\FindDuplicateProducts\FindDuplicateProducts\obj\Debug\net10.0\FindDuplicateProducts.pdb
+C:\Users\Jagriti\Desktop\LINQ\FindDuplicateProducts\FindDuplicateProducts\obj\Debug\net10.0\FindDuplicateProducts.genruntimeconfig.cache
+C:\Users\Jagriti\Desktop\LINQ\FindDuplicateProducts\FindDuplicateProducts\obj\Debug\net10.0\ref\FindDuplicateProducts.dll
