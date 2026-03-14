@@ -1,0 +1,14 @@
+/Users/jagriti/Desktop/TopBrains/Inheritance_Polymorphism/obj/Debug/net10.0/Inheritance_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jagriti/Desktop/TopBrains/Inheritance_Polymorphism/obj/Debug/net10.0/Inheritance_Polymorphism.AssemblyInfoInputs.cache
+/Users/jagriti/Desktop/TopBrains/Inheritance_Polymorphism/obj/Debug/net10.0/Inheritance_Polymorphism.AssemblyInfo.cs
+/Users/jagriti/Desktop/TopBrains/Inheritance_Polymorphism/obj/Debug/net10.0/Inheritance_Polymorphism.csproj.CoreCompileInputs.cache
+/Users/jagriti/Desktop/TopBrains/Inheritance_Polymorphism/bin/Debug/net10.0/Inheritance_Polymorphism
+/Users/jagriti/Desktop/TopBrains/Inheritance_Polymorphism/bin/Debug/net10.0/Inheritance_Polymorphism.deps.json
+/Users/jagriti/Desktop/TopBrains/Inheritance_Polymorphism/bin/Debug/net10.0/Inheritance_Polymorphism.runtimeconfig.json
+/Users/jagriti/Desktop/TopBrains/Inheritance_Polymorphism/bin/Debug/net10.0/Inheritance_Polymorphism.dll
+/Users/jagriti/Desktop/TopBrains/Inheritance_Polymorphism/bin/Debug/net10.0/Inheritance_Polymorphism.pdb
+/Users/jagriti/Desktop/TopBrains/Inheritance_Polymorphism/obj/Debug/net10.0/Inheritance_Polymorphism.dll
+/Users/jagriti/Desktop/TopBrains/Inheritance_Polymorphism/obj/Debug/net10.0/refint/Inheritance_Polymorphism.dll
+/Users/jagriti/Desktop/TopBrains/Inheritance_Polymorphism/obj/Debug/net10.0/Inheritance_Polymorphism.pdb
+/Users/jagriti/Desktop/TopBrains/Inheritance_Polymorphism/obj/Debug/net10.0/Inheritance_Polymorphism.genruntimeconfig.cache
+/Users/jagriti/Desktop/TopBrains/Inheritance_Polymorphism/obj/Debug/net10.0/ref/Inheritance_Polymorphism.dll

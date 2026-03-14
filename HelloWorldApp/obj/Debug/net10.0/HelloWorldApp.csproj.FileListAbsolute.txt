@@ -1,0 +1,14 @@
+C:\Users\Jagriti\Desktop\.net practice\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.exe
+C:\Users\Jagriti\Desktop\.net practice\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.deps.json
+C:\Users\Jagriti\Desktop\.net practice\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.runtimeconfig.json
+C:\Users\Jagriti\Desktop\.net practice\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.dll
+C:\Users\Jagriti\Desktop\.net practice\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.pdb
+C:\Users\Jagriti\Desktop\.net practice\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jagriti\Desktop\.net practice\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.AssemblyInfo.cs
+C:\Users\Jagriti\Desktop\.net practice\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.dll
+C:\Users\Jagriti\Desktop\.net practice\HelloWorldApp\obj\Debug\net10.0\refint\HelloWorldApp.dll
+C:\Users\Jagriti\Desktop\.net practice\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.pdb
+C:\Users\Jagriti\Desktop\.net practice\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.genruntimeconfig.cache
+C:\Users\Jagriti\Desktop\.net practice\HelloWorldApp\obj\Debug\net10.0\ref\HelloWorldApp.dll

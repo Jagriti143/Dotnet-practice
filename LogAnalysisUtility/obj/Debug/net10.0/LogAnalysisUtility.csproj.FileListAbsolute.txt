@@ -1,0 +1,14 @@
+C:\Users\Jagriti\Desktop\.net practice\LogAnalysisUtility\obj\Debug\net10.0\LogAnalysisUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jagriti\Desktop\.net practice\LogAnalysisUtility\obj\Debug\net10.0\LogAnalysisUtility.AssemblyInfoInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\LogAnalysisUtility\obj\Debug\net10.0\LogAnalysisUtility.AssemblyInfo.cs
+C:\Users\Jagriti\Desktop\.net practice\LogAnalysisUtility\obj\Debug\net10.0\LogAnalysisUtility.csproj.CoreCompileInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\LogAnalysisUtility\bin\Debug\net10.0\LogAnalysisUtility.exe
+C:\Users\Jagriti\Desktop\.net practice\LogAnalysisUtility\bin\Debug\net10.0\LogAnalysisUtility.deps.json
+C:\Users\Jagriti\Desktop\.net practice\LogAnalysisUtility\bin\Debug\net10.0\LogAnalysisUtility.runtimeconfig.json
+C:\Users\Jagriti\Desktop\.net practice\LogAnalysisUtility\bin\Debug\net10.0\LogAnalysisUtility.dll
+C:\Users\Jagriti\Desktop\.net practice\LogAnalysisUtility\bin\Debug\net10.0\LogAnalysisUtility.pdb
+C:\Users\Jagriti\Desktop\.net practice\LogAnalysisUtility\obj\Debug\net10.0\LogAnalysisUtility.dll
+C:\Users\Jagriti\Desktop\.net practice\LogAnalysisUtility\obj\Debug\net10.0\refint\LogAnalysisUtility.dll
+C:\Users\Jagriti\Desktop\.net practice\LogAnalysisUtility\obj\Debug\net10.0\LogAnalysisUtility.pdb
+C:\Users\Jagriti\Desktop\.net practice\LogAnalysisUtility\obj\Debug\net10.0\LogAnalysisUtility.genruntimeconfig.cache
+C:\Users\Jagriti\Desktop\.net practice\LogAnalysisUtility\obj\Debug\net10.0\ref\LogAnalysisUtility.dll

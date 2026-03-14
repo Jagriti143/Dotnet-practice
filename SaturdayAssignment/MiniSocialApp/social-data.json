@@ -1,0 +1,30 @@
+[
+  {
+    "Username": "jagriti",
+    "Email": "jagriti@gmail.com",
+    "Following": [],
+    "Posts": [
+      {
+        "Content": "hiiiii",
+        "CreatedAt": "2026-01-16T08:51:52.6465483Z"
+      },
+      {
+        "Content": "I love coding #dotnet",
+        "CreatedAt": "2026-01-16T08:51:52.6465833Z"
+      }
+    ]
+  },
+  {
+    "Username": "Karan",
+    "Email": "karan@gmail.com",
+    "Following": [
+      "jagriti"
+    ],
+    "Posts": [
+      {
+        "Content": "#idiot",
+        "CreatedAt": "2026-01-16T08:51:52.6466414Z"
+      }
+    ]
+  }
+]

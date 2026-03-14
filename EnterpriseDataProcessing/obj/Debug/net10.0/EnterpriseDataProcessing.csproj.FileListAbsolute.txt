@@ -1,0 +1,14 @@
+C:\Users\Jagriti\Desktop\.net practice\EnterpriseDataProcessing\bin\Debug\net10.0\EnterpriseDataProcessing.exe
+C:\Users\Jagriti\Desktop\.net practice\EnterpriseDataProcessing\bin\Debug\net10.0\EnterpriseDataProcessing.deps.json
+C:\Users\Jagriti\Desktop\.net practice\EnterpriseDataProcessing\bin\Debug\net10.0\EnterpriseDataProcessing.runtimeconfig.json
+C:\Users\Jagriti\Desktop\.net practice\EnterpriseDataProcessing\bin\Debug\net10.0\EnterpriseDataProcessing.dll
+C:\Users\Jagriti\Desktop\.net practice\EnterpriseDataProcessing\bin\Debug\net10.0\EnterpriseDataProcessing.pdb
+C:\Users\Jagriti\Desktop\.net practice\EnterpriseDataProcessing\obj\Debug\net10.0\EnterpriseDataProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jagriti\Desktop\.net practice\EnterpriseDataProcessing\obj\Debug\net10.0\EnterpriseDataProcessing.AssemblyInfoInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\EnterpriseDataProcessing\obj\Debug\net10.0\EnterpriseDataProcessing.AssemblyInfo.cs
+C:\Users\Jagriti\Desktop\.net practice\EnterpriseDataProcessing\obj\Debug\net10.0\EnterpriseDataProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\EnterpriseDataProcessing\obj\Debug\net10.0\EnterpriseDataProcessing.dll
+C:\Users\Jagriti\Desktop\.net practice\EnterpriseDataProcessing\obj\Debug\net10.0\refint\EnterpriseDataProcessing.dll
+C:\Users\Jagriti\Desktop\.net practice\EnterpriseDataProcessing\obj\Debug\net10.0\EnterpriseDataProcessing.pdb
+C:\Users\Jagriti\Desktop\.net practice\EnterpriseDataProcessing\obj\Debug\net10.0\EnterpriseDataProcessing.genruntimeconfig.cache
+C:\Users\Jagriti\Desktop\.net practice\EnterpriseDataProcessing\obj\Debug\net10.0\ref\EnterpriseDataProcessing.dll

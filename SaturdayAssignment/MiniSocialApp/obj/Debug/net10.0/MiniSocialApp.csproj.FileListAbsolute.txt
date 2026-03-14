@@ -1,0 +1,14 @@
+C:\Users\Jagriti\Desktop\.net practice\MiniSocialApp\obj\Debug\net10.0\MiniSocialApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jagriti\Desktop\.net practice\MiniSocialApp\obj\Debug\net10.0\MiniSocialApp.AssemblyInfoInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\MiniSocialApp\obj\Debug\net10.0\MiniSocialApp.AssemblyInfo.cs
+C:\Users\Jagriti\Desktop\.net practice\MiniSocialApp\obj\Debug\net10.0\MiniSocialApp.csproj.CoreCompileInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\MiniSocialApp\bin\Debug\net10.0\MiniSocialApp.exe
+C:\Users\Jagriti\Desktop\.net practice\MiniSocialApp\bin\Debug\net10.0\MiniSocialApp.deps.json
+C:\Users\Jagriti\Desktop\.net practice\MiniSocialApp\bin\Debug\net10.0\MiniSocialApp.runtimeconfig.json
+C:\Users\Jagriti\Desktop\.net practice\MiniSocialApp\bin\Debug\net10.0\MiniSocialApp.dll
+C:\Users\Jagriti\Desktop\.net practice\MiniSocialApp\bin\Debug\net10.0\MiniSocialApp.pdb
+C:\Users\Jagriti\Desktop\.net practice\MiniSocialApp\obj\Debug\net10.0\MiniSocialApp.dll
+C:\Users\Jagriti\Desktop\.net practice\MiniSocialApp\obj\Debug\net10.0\refint\MiniSocialApp.dll
+C:\Users\Jagriti\Desktop\.net practice\MiniSocialApp\obj\Debug\net10.0\MiniSocialApp.pdb
+C:\Users\Jagriti\Desktop\.net practice\MiniSocialApp\obj\Debug\net10.0\MiniSocialApp.genruntimeconfig.cache
+C:\Users\Jagriti\Desktop\.net practice\MiniSocialApp\obj\Debug\net10.0\ref\MiniSocialApp.dll

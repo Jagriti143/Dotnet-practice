@@ -1,0 +1,14 @@
+C:\Users\Jagriti\Desktop\.net practice\QuickMart\obj\Debug\net10.0\QuickMark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jagriti\Desktop\.net practice\QuickMart\obj\Debug\net10.0\QuickMark.AssemblyInfoInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\QuickMart\obj\Debug\net10.0\QuickMark.AssemblyInfo.cs
+C:\Users\Jagriti\Desktop\.net practice\QuickMart\obj\Debug\net10.0\QuickMark.csproj.CoreCompileInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\QuickMart\bin\Debug\net10.0\QuickMark.exe
+C:\Users\Jagriti\Desktop\.net practice\QuickMart\bin\Debug\net10.0\QuickMark.deps.json
+C:\Users\Jagriti\Desktop\.net practice\QuickMart\bin\Debug\net10.0\QuickMark.runtimeconfig.json
+C:\Users\Jagriti\Desktop\.net practice\QuickMart\bin\Debug\net10.0\QuickMark.dll
+C:\Users\Jagriti\Desktop\.net practice\QuickMart\bin\Debug\net10.0\QuickMark.pdb
+C:\Users\Jagriti\Desktop\.net practice\QuickMart\obj\Debug\net10.0\QuickMark.dll
+C:\Users\Jagriti\Desktop\.net practice\QuickMart\obj\Debug\net10.0\refint\QuickMark.dll
+C:\Users\Jagriti\Desktop\.net practice\QuickMart\obj\Debug\net10.0\QuickMark.pdb
+C:\Users\Jagriti\Desktop\.net practice\QuickMart\obj\Debug\net10.0\QuickMark.genruntimeconfig.cache
+C:\Users\Jagriti\Desktop\.net practice\QuickMart\obj\Debug\net10.0\ref\QuickMark.dll

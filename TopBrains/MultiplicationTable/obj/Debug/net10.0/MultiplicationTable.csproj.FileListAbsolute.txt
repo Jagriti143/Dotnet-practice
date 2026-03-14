@@ -1,0 +1,14 @@
+/Users/jagriti/Desktop/TopBrains/MultiplicationTable/bin/Debug/net10.0/MultiplicationTable
+/Users/jagriti/Desktop/TopBrains/MultiplicationTable/bin/Debug/net10.0/MultiplicationTable.deps.json
+/Users/jagriti/Desktop/TopBrains/MultiplicationTable/bin/Debug/net10.0/MultiplicationTable.runtimeconfig.json
+/Users/jagriti/Desktop/TopBrains/MultiplicationTable/bin/Debug/net10.0/MultiplicationTable.dll
+/Users/jagriti/Desktop/TopBrains/MultiplicationTable/bin/Debug/net10.0/MultiplicationTable.pdb
+/Users/jagriti/Desktop/TopBrains/MultiplicationTable/obj/Debug/net10.0/MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jagriti/Desktop/TopBrains/MultiplicationTable/obj/Debug/net10.0/MultiplicationTable.AssemblyInfoInputs.cache
+/Users/jagriti/Desktop/TopBrains/MultiplicationTable/obj/Debug/net10.0/MultiplicationTable.AssemblyInfo.cs
+/Users/jagriti/Desktop/TopBrains/MultiplicationTable/obj/Debug/net10.0/MultiplicationTable.csproj.CoreCompileInputs.cache
+/Users/jagriti/Desktop/TopBrains/MultiplicationTable/obj/Debug/net10.0/MultiplicationTable.dll
+/Users/jagriti/Desktop/TopBrains/MultiplicationTable/obj/Debug/net10.0/refint/MultiplicationTable.dll
+/Users/jagriti/Desktop/TopBrains/MultiplicationTable/obj/Debug/net10.0/MultiplicationTable.pdb
+/Users/jagriti/Desktop/TopBrains/MultiplicationTable/obj/Debug/net10.0/MultiplicationTable.genruntimeconfig.cache
+/Users/jagriti/Desktop/TopBrains/MultiplicationTable/obj/Debug/net10.0/ref/MultiplicationTable.dll

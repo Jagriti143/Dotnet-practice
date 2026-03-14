@@ -1,0 +1,14 @@
+C:\Users\Jagriti\Desktop\.net practice\SugarBliss\obj\Debug\net10.0\SugarBliss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jagriti\Desktop\.net practice\SugarBliss\obj\Debug\net10.0\SugarBliss.AssemblyInfoInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\SugarBliss\obj\Debug\net10.0\SugarBliss.AssemblyInfo.cs
+C:\Users\Jagriti\Desktop\.net practice\SugarBliss\obj\Debug\net10.0\SugarBliss.csproj.CoreCompileInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\SugarBliss\bin\Debug\net10.0\SugarBliss.exe
+C:\Users\Jagriti\Desktop\.net practice\SugarBliss\bin\Debug\net10.0\SugarBliss.deps.json
+C:\Users\Jagriti\Desktop\.net practice\SugarBliss\bin\Debug\net10.0\SugarBliss.runtimeconfig.json
+C:\Users\Jagriti\Desktop\.net practice\SugarBliss\bin\Debug\net10.0\SugarBliss.dll
+C:\Users\Jagriti\Desktop\.net practice\SugarBliss\bin\Debug\net10.0\SugarBliss.pdb
+C:\Users\Jagriti\Desktop\.net practice\SugarBliss\obj\Debug\net10.0\SugarBliss.dll
+C:\Users\Jagriti\Desktop\.net practice\SugarBliss\obj\Debug\net10.0\refint\SugarBliss.dll
+C:\Users\Jagriti\Desktop\.net practice\SugarBliss\obj\Debug\net10.0\SugarBliss.pdb
+C:\Users\Jagriti\Desktop\.net practice\SugarBliss\obj\Debug\net10.0\SugarBliss.genruntimeconfig.cache
+C:\Users\Jagriti\Desktop\.net practice\SugarBliss\obj\Debug\net10.0\ref\SugarBliss.dll

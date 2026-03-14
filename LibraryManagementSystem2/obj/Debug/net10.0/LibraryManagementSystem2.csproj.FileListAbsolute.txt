@@ -1,0 +1,14 @@
+C:\Users\Jagriti\Desktop\.net practice\LibraryManagementSystem2\obj\Debug\net10.0\LibraryManagementSystem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jagriti\Desktop\.net practice\LibraryManagementSystem2\obj\Debug\net10.0\LibraryManagementSystem2.AssemblyInfoInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\LibraryManagementSystem2\obj\Debug\net10.0\LibraryManagementSystem2.AssemblyInfo.cs
+C:\Users\Jagriti\Desktop\.net practice\LibraryManagementSystem2\obj\Debug\net10.0\LibraryManagementSystem2.csproj.CoreCompileInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\LibraryManagementSystem2\bin\Debug\net10.0\LibraryManagementSystem2.exe
+C:\Users\Jagriti\Desktop\.net practice\LibraryManagementSystem2\bin\Debug\net10.0\LibraryManagementSystem2.deps.json
+C:\Users\Jagriti\Desktop\.net practice\LibraryManagementSystem2\bin\Debug\net10.0\LibraryManagementSystem2.runtimeconfig.json
+C:\Users\Jagriti\Desktop\.net practice\LibraryManagementSystem2\bin\Debug\net10.0\LibraryManagementSystem2.dll
+C:\Users\Jagriti\Desktop\.net practice\LibraryManagementSystem2\bin\Debug\net10.0\LibraryManagementSystem2.pdb
+C:\Users\Jagriti\Desktop\.net practice\LibraryManagementSystem2\obj\Debug\net10.0\LibraryManagementSystem2.dll
+C:\Users\Jagriti\Desktop\.net practice\LibraryManagementSystem2\obj\Debug\net10.0\refint\LibraryManagementSystem2.dll
+C:\Users\Jagriti\Desktop\.net practice\LibraryManagementSystem2\obj\Debug\net10.0\LibraryManagementSystem2.pdb
+C:\Users\Jagriti\Desktop\.net practice\LibraryManagementSystem2\obj\Debug\net10.0\LibraryManagementSystem2.genruntimeconfig.cache
+C:\Users\Jagriti\Desktop\.net practice\LibraryManagementSystem2\obj\Debug\net10.0\ref\LibraryManagementSystem2.dll

@@ -1,0 +1,14 @@
+/Users/jagriti/Desktop/TopBrains/SumPositiveNum/obj/Debug/net10.0/SumPositiveNum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jagriti/Desktop/TopBrains/SumPositiveNum/obj/Debug/net10.0/SumPositiveNum.AssemblyInfoInputs.cache
+/Users/jagriti/Desktop/TopBrains/SumPositiveNum/obj/Debug/net10.0/SumPositiveNum.AssemblyInfo.cs
+/Users/jagriti/Desktop/TopBrains/SumPositiveNum/obj/Debug/net10.0/SumPositiveNum.csproj.CoreCompileInputs.cache
+/Users/jagriti/Desktop/TopBrains/SumPositiveNum/bin/Debug/net10.0/SumPositiveNum
+/Users/jagriti/Desktop/TopBrains/SumPositiveNum/bin/Debug/net10.0/SumPositiveNum.deps.json
+/Users/jagriti/Desktop/TopBrains/SumPositiveNum/bin/Debug/net10.0/SumPositiveNum.runtimeconfig.json
+/Users/jagriti/Desktop/TopBrains/SumPositiveNum/bin/Debug/net10.0/SumPositiveNum.dll
+/Users/jagriti/Desktop/TopBrains/SumPositiveNum/bin/Debug/net10.0/SumPositiveNum.pdb
+/Users/jagriti/Desktop/TopBrains/SumPositiveNum/obj/Debug/net10.0/SumPositiveNum.dll
+/Users/jagriti/Desktop/TopBrains/SumPositiveNum/obj/Debug/net10.0/refint/SumPositiveNum.dll
+/Users/jagriti/Desktop/TopBrains/SumPositiveNum/obj/Debug/net10.0/SumPositiveNum.pdb
+/Users/jagriti/Desktop/TopBrains/SumPositiveNum/obj/Debug/net10.0/SumPositiveNum.genruntimeconfig.cache
+/Users/jagriti/Desktop/TopBrains/SumPositiveNum/obj/Debug/net10.0/ref/SumPositiveNum.dll

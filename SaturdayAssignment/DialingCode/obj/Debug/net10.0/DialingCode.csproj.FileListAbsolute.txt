@@ -1,0 +1,14 @@
+C:\Users\Jagriti\Desktop\.net practice\DialingCode\obj\Debug\net10.0\DialingCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jagriti\Desktop\.net practice\DialingCode\obj\Debug\net10.0\DialingCode.AssemblyInfoInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\DialingCode\obj\Debug\net10.0\DialingCode.AssemblyInfo.cs
+C:\Users\Jagriti\Desktop\.net practice\DialingCode\obj\Debug\net10.0\DialingCode.csproj.CoreCompileInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\DialingCode\bin\Debug\net10.0\DialingCode.exe
+C:\Users\Jagriti\Desktop\.net practice\DialingCode\bin\Debug\net10.0\DialingCode.deps.json
+C:\Users\Jagriti\Desktop\.net practice\DialingCode\bin\Debug\net10.0\DialingCode.runtimeconfig.json
+C:\Users\Jagriti\Desktop\.net practice\DialingCode\bin\Debug\net10.0\DialingCode.dll
+C:\Users\Jagriti\Desktop\.net practice\DialingCode\bin\Debug\net10.0\DialingCode.pdb
+C:\Users\Jagriti\Desktop\.net practice\DialingCode\obj\Debug\net10.0\DialingCode.dll
+C:\Users\Jagriti\Desktop\.net practice\DialingCode\obj\Debug\net10.0\refint\DialingCode.dll
+C:\Users\Jagriti\Desktop\.net practice\DialingCode\obj\Debug\net10.0\DialingCode.pdb
+C:\Users\Jagriti\Desktop\.net practice\DialingCode\obj\Debug\net10.0\DialingCode.genruntimeconfig.cache
+C:\Users\Jagriti\Desktop\.net practice\DialingCode\obj\Debug\net10.0\ref\DialingCode.dll

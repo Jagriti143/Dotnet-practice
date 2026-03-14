@@ -1,0 +1,14 @@
+/Users/jagriti/Desktop/TopBrains/BankTransaction/obj/Debug/net10.0/BankTransaction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jagriti/Desktop/TopBrains/BankTransaction/obj/Debug/net10.0/BankTransaction.AssemblyInfoInputs.cache
+/Users/jagriti/Desktop/TopBrains/BankTransaction/obj/Debug/net10.0/BankTransaction.AssemblyInfo.cs
+/Users/jagriti/Desktop/TopBrains/BankTransaction/obj/Debug/net10.0/BankTransaction.csproj.CoreCompileInputs.cache
+/Users/jagriti/Desktop/TopBrains/BankTransaction/bin/Debug/net10.0/BankTransaction
+/Users/jagriti/Desktop/TopBrains/BankTransaction/bin/Debug/net10.0/BankTransaction.deps.json
+/Users/jagriti/Desktop/TopBrains/BankTransaction/bin/Debug/net10.0/BankTransaction.runtimeconfig.json
+/Users/jagriti/Desktop/TopBrains/BankTransaction/bin/Debug/net10.0/BankTransaction.dll
+/Users/jagriti/Desktop/TopBrains/BankTransaction/bin/Debug/net10.0/BankTransaction.pdb
+/Users/jagriti/Desktop/TopBrains/BankTransaction/obj/Debug/net10.0/BankTransaction.dll
+/Users/jagriti/Desktop/TopBrains/BankTransaction/obj/Debug/net10.0/refint/BankTransaction.dll
+/Users/jagriti/Desktop/TopBrains/BankTransaction/obj/Debug/net10.0/BankTransaction.pdb
+/Users/jagriti/Desktop/TopBrains/BankTransaction/obj/Debug/net10.0/BankTransaction.genruntimeconfig.cache
+/Users/jagriti/Desktop/TopBrains/BankTransaction/obj/Debug/net10.0/ref/BankTransaction.dll

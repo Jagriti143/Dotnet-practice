@@ -1,0 +1,12 @@
+29-12-2025 22:25:45 | InsufficientBalanceException | Amount exceeds current balance. Invalid input
+29-12-2025 22:28:52 | FormatException | Amount cannot be negative
+29-12-2025 22:29:40 | FormatException | Amount cannot be negative
+29-12-2025 22:30:34 | FormatException | Amount cannot be negative
+29-12-2025 22:31:55 | FormatException | Amount cannot be negative
+29-12-2025 22:32:29 | Exception | Amount cannot be negative
+29-12-2025 22:37:52 | FormatException | Amount cannot be negative
+29-12-2025 22:38:19 | FormatException | Amount cannot be negative
+29-12-2025 22:39:21 | FormatException | Amount cannot be negative
+29-12-2025 22:41:24 | InsufficientBalanceException | Amount exceeds current balance. Invalid input
+29-12-2025 22:46:59 | InsufficientBalanceException | Amount exceeds current balance. Invalid input
+29-12-2025 22:55:44 | BankOperationException | An error occurred during withdrawal operation

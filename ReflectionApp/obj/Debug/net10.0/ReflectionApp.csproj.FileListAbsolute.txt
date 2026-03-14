@@ -1,0 +1,14 @@
+C:\Users\Jagriti\Desktop\.net practice\ReflectionApp\bin\Debug\net10.0\ReflectionApp.exe
+C:\Users\Jagriti\Desktop\.net practice\ReflectionApp\bin\Debug\net10.0\ReflectionApp.deps.json
+C:\Users\Jagriti\Desktop\.net practice\ReflectionApp\bin\Debug\net10.0\ReflectionApp.runtimeconfig.json
+C:\Users\Jagriti\Desktop\.net practice\ReflectionApp\bin\Debug\net10.0\ReflectionApp.dll
+C:\Users\Jagriti\Desktop\.net practice\ReflectionApp\bin\Debug\net10.0\ReflectionApp.pdb
+C:\Users\Jagriti\Desktop\.net practice\ReflectionApp\obj\Debug\net10.0\ReflectionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jagriti\Desktop\.net practice\ReflectionApp\obj\Debug\net10.0\ReflectionApp.AssemblyInfoInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\ReflectionApp\obj\Debug\net10.0\ReflectionApp.AssemblyInfo.cs
+C:\Users\Jagriti\Desktop\.net practice\ReflectionApp\obj\Debug\net10.0\ReflectionApp.csproj.CoreCompileInputs.cache
+C:\Users\Jagriti\Desktop\.net practice\ReflectionApp\obj\Debug\net10.0\ReflectionApp.dll
+C:\Users\Jagriti\Desktop\.net practice\ReflectionApp\obj\Debug\net10.0\refint\ReflectionApp.dll
+C:\Users\Jagriti\Desktop\.net practice\ReflectionApp\obj\Debug\net10.0\ReflectionApp.pdb
+C:\Users\Jagriti\Desktop\.net practice\ReflectionApp\obj\Debug\net10.0\ReflectionApp.genruntimeconfig.cache
+C:\Users\Jagriti\Desktop\.net practice\ReflectionApp\obj\Debug\net10.0\ref\ReflectionApp.dll

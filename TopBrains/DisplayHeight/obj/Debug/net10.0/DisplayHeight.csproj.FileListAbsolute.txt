@@ -1,0 +1,14 @@
+/Users/jagriti/Desktop/TopBrains/DisplayHeight/bin/Debug/net10.0/DisplayHeight
+/Users/jagriti/Desktop/TopBrains/DisplayHeight/bin/Debug/net10.0/DisplayHeight.deps.json
+/Users/jagriti/Desktop/TopBrains/DisplayHeight/bin/Debug/net10.0/DisplayHeight.runtimeconfig.json
+/Users/jagriti/Desktop/TopBrains/DisplayHeight/bin/Debug/net10.0/DisplayHeight.dll
+/Users/jagriti/Desktop/TopBrains/DisplayHeight/bin/Debug/net10.0/DisplayHeight.pdb
+/Users/jagriti/Desktop/TopBrains/DisplayHeight/obj/Debug/net10.0/DisplayHeight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jagriti/Desktop/TopBrains/DisplayHeight/obj/Debug/net10.0/DisplayHeight.AssemblyInfoInputs.cache
+/Users/jagriti/Desktop/TopBrains/DisplayHeight/obj/Debug/net10.0/DisplayHeight.AssemblyInfo.cs
+/Users/jagriti/Desktop/TopBrains/DisplayHeight/obj/Debug/net10.0/DisplayHeight.csproj.CoreCompileInputs.cache
+/Users/jagriti/Desktop/TopBrains/DisplayHeight/obj/Debug/net10.0/DisplayHeight.dll
+/Users/jagriti/Desktop/TopBrains/DisplayHeight/obj/Debug/net10.0/refint/DisplayHeight.dll
+/Users/jagriti/Desktop/TopBrains/DisplayHeight/obj/Debug/net10.0/DisplayHeight.pdb
+/Users/jagriti/Desktop/TopBrains/DisplayHeight/obj/Debug/net10.0/DisplayHeight.genruntimeconfig.cache
+/Users/jagriti/Desktop/TopBrains/DisplayHeight/obj/Debug/net10.0/ref/DisplayHeight.dll
